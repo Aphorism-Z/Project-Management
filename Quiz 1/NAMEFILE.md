@@ -1,4 +1,6 @@
 ## Please list your name below
 
 Bradly Alicea  
-Alexander Zhao
+Susanna Piquer Barrachina    
+Alexander Zhao 
+
