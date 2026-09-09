@@ -21,8 +21,6 @@ My name is **Alexander Zhao**. I am a student at UIUC studying
 
 ## A Little Python
 
-Here is a simple Python command:
-
 `print("Hello World!")`
 
 This is my profile image:
