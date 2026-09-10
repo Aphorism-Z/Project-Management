@@ -8,7 +8,7 @@ I am a senior at the University of Illinois Urbana-Champaign studying Informatio
 
 I am involved in some Information Science + Design organizations and activities at UIUC.
 
-* **Psi Eta Mu** — Information Sciences fraternity
+* **Psi Eta Mu** — Information Sciences fraternity - Active Member
 * **Design Innovation Illinois** — UI/UX Designer
 * **Illinois Design Challenge** — UI/UX and Graphic Designer
 
@@ -34,8 +34,6 @@ I am involved in some Information Science + Design organizations and activities 
 1. Improve my technical skills
 2. Learn more about AI and data
 3. Build better digital experiences
-
-> "No amount of money ever bought a second of time."
 
 ---
 
